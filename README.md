@@ -28,22 +28,28 @@
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="иконка TypeScript" width="60" height="60">  
   <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="иконка react" width="60" height="60">  
   <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="иконка redux" width="60" height="60">
-  <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="иконка next.js" width="60" height="60">  
-  <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="иконка tailwind" width="60" height="60">  
-  <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="иконка shadcn" width="60" height="60">  
+  <img src="./icons/Next.js.svg" alt="иконка next.js" width="60" height="60">  
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="иконка tailwind" width="60" height="60">    
 </p>  
 
-<!--
-**svk-2020/svk-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h2 align="center">Мои контакты 📫</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:skazarinov@mail.ru" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/ios-filled/24/000000/new-post.png" alt="Почта" />
+        skazarinov@mail.ru
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/StuPenguin" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/ios-filled/24/000000/telegram-app.png" alt="Telegram" />
+        @StuPenguin
+      </a>
+    </td>
+  </tr>
+</table>
