@@ -1,4 +1,8 @@
-## Всем привет, меня зовут Станислав 👋
+<div align="center" style="font-size: 24px;">
+Всем привет, меня зовут Станислав 👋
+</div>
+
+## О себе
 
 <!--
 **svk-2020/svk-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
