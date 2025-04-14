@@ -12,19 +12,25 @@
 ## Языки и инструменты 🛠️
 ### Backend
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="иконка python">
-  <img src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" alt="иконка django">  
-  <img src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=000000" alt="иконка node js">  
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="иконка docker">  
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="иконка postgres">
-  <img src="https://github.com/user-attachments/assets/24079737-29a6-4d67-8707-348a0344ee13" alt="иконка fastapi">  
- 
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="иконка python" width="60" height="60">
+  <img src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" alt="иконка django" width="60" height="60">  
+  <img src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=000000" alt="иконка node js" width="60" height="60">  
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="иконка docker" width="60" height="60">  
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="иконка postgres" width="60" height="60">
+  <img src="./icons/FastAPI.svg" alt="иконка fastapi" width="60" height="60"> 
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="иконка JavaScript">
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="иконка TypeScript">  
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="иконка html5" width="60" height="60">
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="иконка css3" width="60" height="60">
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="иконка JavaScript" width="60" height="60">
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="иконка TypeScript" width="60" height="60">  
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="иконка react" width="60" height="60">  
+  <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="иконка redux" width="60" height="60">
+  <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="иконка next.js" width="60" height="60">  
+  <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="иконка tailwind" width="60" height="60">  
+  <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="иконка shadcn" width="60" height="60">  
 </p>  
 
 <!--
