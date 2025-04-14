@@ -1,4 +1,4 @@
-## Hi there 👋
+## Всем привет, меня зовут Станислав 👋
 
 <!--
 **svk-2020/svk-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
