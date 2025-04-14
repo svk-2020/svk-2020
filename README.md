@@ -13,6 +13,12 @@
 ### Backend
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="иконка python">
+  <img src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" alt="иконка django">  
+  <img src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=000000" alt="иконка node js">  
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="иконка docker">  
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="иконка postgres">
+  <img src="https://github.com/user-attachments/assets/24079737-29a6-4d67-8707-348a0344ee13" alt="иконка fastapi">  
+ 
 </p>
 
 ### Frontend
