@@ -35,21 +35,12 @@
 <br>
 <h2 align="center">Мои контакты 📫</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:skazarinov@mail.ru" style="text-decoration: none; color: inherit;">
-        <img src="https://img.icons8.com/ios-filled/24/000000/new-post.png" alt="Почта" />
-        skazarinov@mail.ru
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://t.me/StuPenguin" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://img.icons8.com/ios-filled/24/000000/telegram-app.png" alt="Telegram" />
-        @StuPenguin
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:skazarinov@mail.ru">
+    <img src="https://img.icons8.com/ios-filled/24/000000/new-post.png" alt="Почта"/>
+    skazarinov@mail.ru
+  </a><br>
+  <a href="https://t.me/StuPenguin" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/24/000000/telegram-app.png" alt="Telegram"/>    
+  </a>
+</p>
