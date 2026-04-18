@@ -37,22 +37,21 @@
 
 ### Backend
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" height="60" style="display:inline-block;">
-  <img src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" width="60" height="60" style="display:inline-block;">  
-  <img src="./icons/FastAPI.svg" width="60" height="60" style="display:inline-block;"> 
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="60" height="60" style="display:inline-block;">
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="60" height="60" style="display:inline-block;">  
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" width="50"/>
+  <img src="./icons/FastAPI.svg" width="50"/><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="50"/>  
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="60" height="60">
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60" height="60">
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" height="60">
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="60" height="60">  
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="60" height="60">  
-  <img src="./icons/Next.js.svg" width="60" height="60">  
-  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="60" height="60">    
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="50"/>  
+  <img src="./icons/Next.js.svg" width="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="50"/>    
 </p>  
 
 ---
@@ -69,9 +68,9 @@
 
 <p align="center">
   <a href="mailto:skazarinov@mail.ru">
-    <img src="https://img.icons8.com/?size=100&id=3AYCSzCO85Qw&format=png&color=000000" width="40" height="40"/>    
+    <img src="https://img.icons8.com/?size=100&id=3AYCSzCO85Qw&format=png&color=000000" width="40"/>    
   </a>
   <a href="https://t.me/StuPenguin" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="40" height="40"/>    
+    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="40"/>    
   </a>
 </p>
